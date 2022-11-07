@@ -152,11 +152,6 @@ npm run dev
 
 <a id="-contato"></a>
 
-
-## :warning: License
-
-Este projeto é [MIT licensed](./LICENSE).
-
 ## :books: Mais informações
 
 Rocketseat: [Acelere cada etapa da sua carreira em programação](https://www.rocketseat.com.br/).
