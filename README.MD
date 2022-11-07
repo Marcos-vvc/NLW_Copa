@@ -152,12 +152,6 @@ npm run dev
 
 <a id="-contato"></a>
 
-## :email: Contato
-
-Olá, eu sou Livio Alvarenga, Engenheiro de Produção | Dev Back-end e Front-end. Sou aficcionado por tecnologia, programação, processos e planejamento. Uni todas essas paixões em uma só profissão. Dúvidas, sugestões e críticas são super bem vindas. Seguem meus contatos.
-
--   [www.livioalvarenga.com](https://livioalvarenga.com)
--   contato@livioalvarenga.com
 
 ## :warning: License
 
